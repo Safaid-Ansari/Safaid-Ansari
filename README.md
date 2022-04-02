@@ -4,8 +4,7 @@
 - 🙌 I love Coding ❤ 
 - 🌱 I’m currently BCA From Jamia Hamdard New Delhi 
 - 💞️ Knownledge in different Languages like :  C/HTML/CSS/JavaScript/Java 
-
-- 
+- 👍 Try to learn new Technology 😍
 
 <!---
 Safaid-Ansari/Safaid-Ansari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
