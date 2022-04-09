@@ -3,7 +3,7 @@
 - 👀 I’m interested in Coding World  
 - 🙌 I love Coding ❤ 
 - 🌱 I’m currently BCA From Jamia Hamdard New Delhi 
-- 💞️ Knownledge in different Languages like :  C/HTML/CSS/JavaScript/Java 
+- 💞️ Knowledge in different Languages like :  C/HTML/CSS/JavaScript/Java 
 - 👍 I try to learn New Technology 😍
 
 <!---
