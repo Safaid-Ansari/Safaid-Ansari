@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Safaid-Ansari
-- 🏠 I belongs to Utter Pradesh  
+- 🔭 I’m currently looking for a new opportunity as a Web Developer!
+- 🏠 I belong to Utter Pradesh  
 - 👀 I’m interested in Coding World  
 - 🙌 I love Coding ❤ 
-- 🌱 I’m currently BCA From Jamia Hamdard New Delhi 
-- 💞️ Knowledge in different Languages like :  C/HTML/CSS/JavaScript/Java/Node.js 
+- 🌱 I have completed BCA From Jamia Hamdard New Delhi 
+- 💞️ Knowledge in different Languages like:  C/HTML/CSS/JavaScript/Java/Node.js/MongoDB/MySQL
 - 👍 I try to learn New Technology 😍
 
 <!---
