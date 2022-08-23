@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Safaid-Ansari
-- 🔭 I’m currently looking for a new opportunity as a Web Developer!
+- 🔭 I’m currently looking for a new opportunity as a Full Stack Engineer!
 - 🏠 I belong to Utter Pradesh  
 - 👀 I’m interested in Coding World  
 - 🙌 I love Coding ❤ 
